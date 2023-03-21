@@ -8,6 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=n8dogg417&style=flat-square&color=blue" alt=""/>
     <h1>
       hey there
+      <a href="https://github.com/N8Dogg417/Hasty">Check out my Code<a/>
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
