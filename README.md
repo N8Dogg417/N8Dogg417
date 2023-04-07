@@ -1,18 +1,18 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-     </div>
-<div align="center">
-   <a href="https://www.linkedin.com/in/nathan-h-desso/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://wakatime.com/@8037ed79-0f81-4132-a943-a1889622a6b0"><img src="https://wakatime.com/badge/user/8037ed79-0f81-4132-a943-a1889622a6b0.svg" alt="Total time coded since Oct 26 2022" /></a>
-    <img src="https://komarev.com/ghpvc/?username=n8dogg417&style=flat-square&color=blue" alt=""/>
-   </div>
-    <h1>
+</div>
+<div class="row" align="center">
+  <a href="https://www.linkedin.com/in/nathan-h-desso/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+<div class="row" align="center">
+  <a href="https://wakatime.com/@8037ed79-0f81-4132-a943-a1889622a6b0"><img src="https://wakatime.com/badge/user/8037ed79-0f81-4132-a943-a1889622a6b0.svg" alt="Total time coded since Oct 26 2022" /></a>
+  <img src="https://komarev.com/ghpvc/?username=n8dogg417&style=flat-square&color=blue" alt=""/>
+  <h1>
       hey there
       <a href="https://github.com/N8Dogg417/Hasty">Check out my Code<a/>
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-</div>
-  <div align="center">
+  </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
